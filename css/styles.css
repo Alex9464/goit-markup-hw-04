@@ -499,7 +499,8 @@ body {
   gap: 16px;
 }
 
-.footer__soc-link:hover {
+.footer__soc-link:hover,
+.footer__soc-link:focus {
   background-color: var(--green);
 }
 
